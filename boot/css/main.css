@@ -1,0 +1,32 @@
+.foot{
+        width: 100%;
+        height: 150px;
+        background: gray;
+    opacity: 50%;
+    padding-top:50px
+    }
+.end {
+    color: white;
+    font-weight: bold;
+    text-align: center;
+ 
+    font-size: 20px;
+}
+
+.avtor {
+    position: absolute;
+    right: 5px;
+    bottom:0;
+}
+.card{
+    background: lightgray;
+    
+    
+}
+
+.q {
+    width: 500px;
+}
+.a{
+    ;
+}
